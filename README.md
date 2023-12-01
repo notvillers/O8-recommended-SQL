@@ -1,6 +1,6 @@
 # Octopus 8 ERP részletek
 
-Általam írt, akár másoknak is hasznos sql dolgok.
+Általam írt, akár másoknak is hasznos T-SQL dolgok.
 
 ## [Lekérdezések](https://github.com/notvillers/O8-recommended-SQL/tree/main/Lek%C3%A9rdez%C3%A9sek)
 
