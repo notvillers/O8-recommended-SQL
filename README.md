@@ -2,7 +2,7 @@
 
 Általam írt, akár másoknak is hasznos sql dolgok.
 
-## Lekérdezések
+## [Lekérdezések](https://github.com/notvillers/O8-recommended-SQL/tree/main/Lek%C3%A9rdez%C3%A9sek)
 
 A paraméter ajánlás az alábbi sorrendben dolgozik:
 
@@ -22,7 +22,7 @@ Cikkentként visszaadja a 1 Készl. ME.-re a megadott KTD főtípus értéket.
 **Példa felhasználás:** KTD/EPR köteles termékek adminisztrációja.
 
 
-## Szűrések
+## [Szűrések](https://github.com/notvillers/O8-recommended-SQL/tree/main/Sz%C5%B1r%C3%A9sek)
 
 ### [BESZCIKK_KAPCS](https://github.com/notvillers/O8-recommended-SQL/tree/main/Sz%C5%B1r%C3%A9sek/BESZCIKK_KAPCS)
 
@@ -31,7 +31,7 @@ Listázza a cikktörzsben is megtalálható egyező vonalkódokat.
 **Példa felhasználás:** Új beszállítói kapcsolat esetén az automata belistázás elősegítése.
 
 
-## Funkciók
+## [Funkciók](https://github.com/notvillers/O8-recommended-SQL/tree/main/Funkci%C3%B3k)
 
 ### [F_GLS_TULMERET](https://github.com/notvillers/O8-recommended-SQL/tree/main/Funkci%C3%B3k/GLS_TULMERET)
 
@@ -40,7 +40,7 @@ Listázza azokat a cikkeket, amelyek a GLS jelenlegi (2023. 12. 01) feltételei 
 **Példa felhasználás:** [T_GLS_TULMERET](https://github.com/notvillers/O8-recommended-SQL/tree/main#t_gls_tulmeret).
 
 
-## Tárolt eljárások
+## [Tárolt eljárások](https://github.com/notvillers/O8-recommended-SQL/tree/main/T%C3%A1rolt%20elj%C3%A1r%C3%A1sok)
 
 ### [GLS_TULMERET](https://github.com/notvillers/O8-recommended-SQL/tree/main/T%C3%A1rolt%20elj%C3%A1r%C3%A1sok/GLS_TULMERET)
 
