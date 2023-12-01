@@ -19,7 +19,7 @@ Eredménymező / Rádió mező
 
 Cikkentként visszaadja a 1 Készl. ME.-re a megadott KTD főtípus értéket
 
-## Funkciók
+## Szuresek
 
 ### SZ_BESZCIKK_KAPCS
 
