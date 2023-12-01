@@ -1,7 +1,7 @@
-use [db_name] -- Csak T-SQL-ből futtatáshoz kell
+use [db_name]
 
-declare @cikkid int = null -- paraméter esetén: Integer, Semmi, Listából választható, cikk, cikkid, cikkszam
-declare @td_fotipus int = null -- paraméter esetén: Integer, Radio, üres, csomany, csomanyid, KTD;Hulladék kezelés;NETA;EPR
+declare @cikkid int = null
+declare @td_fotipus int = null
 
 select
 	lek_ktd.CIKKID,

@@ -1,0 +1,6 @@
+Lekérdezéz példa:
+    
+    select 
+        * 
+    from 
+        dbo.VLLRS_FUVMOD_TILTOTT_CIKK_1(@csommodid)

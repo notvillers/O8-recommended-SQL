@@ -1,3 +1,5 @@
+Lekérdezés paraméterei:
+
 @cikkid
     Integer,
     Semmi,
