@@ -2,7 +2,7 @@
 
 Általam írt, akár másoknak is hasznos sql dolgok.
 
-# Lekerdezesek
+## Lekérdezések
 
 A paraméter ajánlás az alábbi sorrendben dolgozik:
 
@@ -19,13 +19,13 @@ Eredménymező / Rádió mező
 
 Cikkentként visszaadja a 1 Készl. ME.-re a megadott KTD főtípus értéket
 
-# Szuresek
+## Szűrések
 
 ### SZ_BESZCIKK_KAPCS
 
 Listázza a cikktörzsben is megtalálható egyező vonalkódokat.
 
-# Funkciok
+## Funkciók
 
 ### F_GLS_TULMERET
 
