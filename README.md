@@ -17,7 +17,7 @@ Eredménymező / Rádió mező
 
 ### L_KTD_OSSZ
 
-Cikkentként visszaadja a 1 Készl. ME.-re a megadott KTD főtípus értéket
+Cikkentként visszaadja a 1 Készl. ME.-re a megadott KTD főtípus értéket.
 
 ## Szűrések
 
@@ -35,4 +35,4 @@ Listázza azokat a cikkeket, amelyek a GLS jelenlegi (2023. 12. 01) feltételei 
 
 ### T_GLS_TULMERET
 
-A @tultipusid1 azonosítós tulajdonság típusba tölti be az F_GLS_TULMERET alatt meghatározott termékeket
+A @tultipusid1 azonosítós tulajdonság típusba tölti be az F_GLS_TULMERET alatt meghatározott termékeket.
