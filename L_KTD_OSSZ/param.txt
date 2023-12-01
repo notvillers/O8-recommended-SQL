@@ -1,0 +1,15 @@
+@cikkid
+    Integer,
+    Semmi,
+    Listából választható,
+    cikk,
+    cikkid,
+    cikkszam
+
+@td_fotipus
+    Integer,
+    Radió,
+    üres,
+    csomany,
+    csomanyid,
+    KTD;Hulladék kezelés;NETA;EPR
