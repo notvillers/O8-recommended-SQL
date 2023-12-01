@@ -1,5 +1,3 @@
 Futtatása:
 
     exec exec dbo.VLLRS_TULELEM_TULTIPUSMEGJ_1 @tultipusid
-
-Kép mellékelve a mint tulajdonság típusról.
