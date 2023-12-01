@@ -54,6 +54,6 @@ A @tultipusid azonosítós tulajdonság típusba tölti be az [F_GLS_TULMERET](h
 A @tultipusid azonosítós tulajdonság típusba tölti be a TULTIPUS.MEGJ-ben található cikkcsoport cikkeit.
 Tulajdonság típus példa:
 
-<img src="https://raw.githubusercontent.com/notvillers/O8-recommended-SQL/main/T%C3%A1rolt%20elj%C3%A1r%C3%A1sok/TULTIP_TOLT_MEGJ/TULTIP_TOLT_MEGJ.png?token=GHSAT0AAAAAACHAHWMRLP7XXRLHYHOELSFIZLJ3HHQ" alt="TULTIP_TOLT_MEGJ"/>
+![TULTIP_TOLT_MEG](https://github.com/notvillers/O8-recommended-SQL/blob/main/T%C3%A1rolt%20elj%C3%A1r%C3%A1sok/TULTIP_TOLT_MEGJ/TULTIP_TOLT_MEGJ.png)
 
 **Példa felhasználás:** Egyedileg kategorizált cikkek forgalmi kimutatásai.
