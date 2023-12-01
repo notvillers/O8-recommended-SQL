@@ -1,4 +1,6 @@
-# Hasznos SQL részletek az Octopus 8 ERP-hez
+# Octopus 8 ERP részletek
+
+Általam írt, akár másoknak is hasznos sql dolgok.
 
 # Lekérdezések
 
@@ -29,7 +31,7 @@ Listázza a cikktörzsben is megtalálható egyező vonalkódokat.
 
 Listázza azokat a cikkeket, amelyek a GLS jelenlegi (2023. 12. 01) feltételei alapján túlméretesnek számítanak, illetve azokat, amelyek a @csommodid alatti csomagolási módban vannak. (Ezzel segítve a manuális bővíthetőséget)
 
-## Tárolt eljárások
+# Tárolt eljárások
 
 ### T_GLS_TULMERET
 
