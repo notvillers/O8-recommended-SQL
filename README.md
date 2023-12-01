@@ -31,8 +31,8 @@ Listázza a cikktörzsben is megtalálható egyező vonalkódokat.
 
 Listázza azokat a cikkeket, amelyek a GLS jelenlegi (2023. 12. 01) feltételei alapján túlméretesnek számítanak, illetve azokat, amelyek a @csommodid alatti csomagolási módban vannak. (Ezzel segítve a manuális bővíthetőséget)
 
-# Tárolt eljárások
+## Tárolt eljárások
 
 ### T_GLS_TULMERET
 
-A @tultipusid1 azonosítós tulajdonság típusba tölti be az F_GLS_TULMERET alatt meghatározott termékeket.
+A @tultipusid1 azonosítós tulajdonság típusba tölti be az [F_GLS_TULMERET](https://github.com/notvillers/O8-recommended-SQL/blob/main/README.md#f_gls_tulmeret) alatt meghatározott termékeket.
