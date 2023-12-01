@@ -1,4 +1,4 @@
-# Octopus 8 ERP részletek
+# Octopus 8 ERP SQL kiegészítő részletek
 
 Általam írt, akár másoknak is hasznos T-SQL dolgok.
 
