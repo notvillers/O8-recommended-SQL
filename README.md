@@ -2,7 +2,7 @@
 
 Általam írt, akár másoknak is hasznos sql dolgok.
 
-## Lekérdezések
+## Szűrések
 
 A paraméter ajánlás az alábbi sorrendben dolgozik:
 
