@@ -1,5 +1,4 @@
 # Hasznos SQL részletek az Octopus 8 ERP-hez
-
 ## Lekérdezések
 
 A paraméter ajánlás az alábbi sorrendben dolgozik:
@@ -15,7 +14,6 @@ Eredménymező / Rádió mező
 
 ### L_KTD_OSSZ
 Cikkentként visszaadja a 1 Készl. ME.-re a megadott KTD főtípus értéket
-
 ## Szűrések
 
 ### SZ_BESZCIKK_KAPCS
