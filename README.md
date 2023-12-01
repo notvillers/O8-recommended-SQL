@@ -33,9 +33,9 @@ Listázza a cikktörzsben is megtalálható egyező vonalkódokat.
 
 ## Funkciók
 
-### F_GLS_TULMERET
+### [F_GLS_TULMERET](https://github.com/notvillers/O8-recommended-SQL/tree/main/Funkci%C3%B3k/GLS_TULMERET)
 
-Listázza azokat a cikkeket, amelyek a GLS jelenlegi (2023. 12. 01) feltételei alapján túlméretesnek számítanak, illetve azokat, amelyek a @csommodid alatti csomagolási módban vannak. (Ezzel segítve a manuális bővíthetőséget)
+Listázza azokat a cikkeket, amelyek a GLS jelenlegi (2023. 12. 01) feltételei alapján túlméretesnek számítanak, illetve azokat, amelyek a @csommodid alatti csomagolási módban vannak. (Ezzel segítve a manuális bővíthetőséget is.)
 
 **Példa felhasználás:** [T_GLS_TULMERET](https://github.com/notvillers/O8-recommended-SQL/tree/main#t_gls_tulmeret).
 
