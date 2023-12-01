@@ -1,2 +1,3 @@
 Futtatása:
-    exec dbo.VLLRS_TABLA_FUVMOD_EGYEDI_1 @csommodid, @tultipusid1
+
+    exec dbo.VLLRS_TABLA_FUVMOD_EGYEDI_1 @csommodid, @tultipusid

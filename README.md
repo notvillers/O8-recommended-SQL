@@ -35,4 +35,8 @@ Listázza azokat a cikkeket, amelyek a GLS jelenlegi (2023. 12. 01) feltételei 
 
 ### T_GLS_TULMERET
 
-A @tultipusid1 azonosítós tulajdonság típusba tölti be az [F_GLS_TULMERET](https://github.com/notvillers/O8-recommended-SQL/blob/main/README.md#f_gls_tulmeret) alatt meghatározott termékeket.
+A @tultipusid azonosítós tulajdonság típusba tölti be az [F_GLS_TULMERET](https://github.com/notvillers/O8-recommended-SQL/blob/main/README.md#f_gls_tulmeret) alatt meghatározott termékeket.
+
+### TULTIP_TOLT_MEGJ
+
+@tultipusid azonosítós tulajdonság típusba tölti be a TULTIPUS.MEGJ-ben található cikkcsoport cikkeit.
